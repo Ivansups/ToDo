@@ -33,4 +33,4 @@
 ### Для Java/Kotlin проекта (без Android):
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo-url/ToDo.git
+   git clone https://github.com/Ivansups/ToDo/tree/master
