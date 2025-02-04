@@ -24,10 +24,10 @@
 
 ## Скриншоты
 
-![Главная экран](screenshots/main_screen.png)
+![Главная экран](screenshots/main_screen.jpg)
 *Экран с добавлением и отображением задач.*
 
-![Редактирование задачи](screenshots/edit_task.png)
+![Редактирование задачи](screenshots/edit_task.jpg)
 *Диалоговое окно для редактирования задачи.*
 
 ---
